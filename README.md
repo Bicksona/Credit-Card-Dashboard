@@ -1,7 +1,7 @@
 # 📊 Credit Card Data Dashboard
 
-An **interactive Power BI dashboard** developed using **transaction** and **customer data** sourced from a SQL database.  
-The dashboard provides **real-time insights** into revenue, transactions, customer demographics, and spending behavior.
+Developed an **interactive dashboard** using **transaction and customer data** from a **SQL database**, to provide **real-time insights**.  
+Streamlined **data processing & analysis** to monitor **key performance metrics and trends**.
 
 ---
 
@@ -50,8 +50,33 @@ The dashboards allow businesses to:
 
 ---
 
+## 📷 Screenshots
+
+### Credit Card Transaction Report
+![Transaction Report](./Credit_Card_Transaction_Report.png)
+
+### Credit Card Customer Report
+![Customer Report](./Credit_Card_Customer_Report.png)
+
 
 
 ---
 
 ## 📂 Repository Structure
+📁 Credit-Card-Dashboard
+ ┣ 📊 Credit_Card.pbix                 # Power BI dashboard file
+ ┣ 🖼️ Credit_Card_Customer_Report.png  # Customer dashboard screenshot
+ ┣ 🖼️ Credit_Card_Transaction_Report.png # Transaction dashboard screenshot
+ ┣ 📜 README.md                        # Project documentation
+ ┗ 📂 Data                             # SQL scripts & sample datasets
+
+
+---
+
+## 🙌 Acknowledgements
+This project was developed as part of my **Power BI learning journey**.  
+
+---
+
+## 🔗 Connect
+If you found this project useful, feel free to ⭐ the repo and connect with me on LinkedIn!  
